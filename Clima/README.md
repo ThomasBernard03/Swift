@@ -13,5 +13,7 @@ Swift application using :
 - Extension methods
 
 
-![App Brewery Banner](Documentation/dark-mode.png)
-![App Brewery Banner](Documentation/light-mode.png)
+<div style="display: flex;gap: 5px">
+  <img src="Documentation/dark-mode.png" alt="Screen width="400" height="800">
+  <img src="Documentation/light-mode.png" alt="Screen" width="400" height="800">
+</div>
